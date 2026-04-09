@@ -1,0 +1,11 @@
+1 chạy terminal lệnh sau để cài các thư viện
+
+pip install -r requirements.txt
+
+2 sau khi chạy cài thư viện thành công thì chạy lệnh sau để chạy trương trình
+
+python run.py
+
+
+3 còn muốn sửa giao diện Frontend thì chỉ nguyên ở file frontend.py . Còn backend hãy các modull chức năng ở trong phần app/
+
